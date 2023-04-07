@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	3235430578	EnergySphere			\Default Work Unit\EnergySphere	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	359085738	Energy Sphere	D:\HammerJammers\GameJam2 Wwise\.cache\Windows\SFX\Ghosthack-Ambient Beds_Magnetic Field_Gm 60Bpm (WET)_145559CC.wem		\Actor-Mixer Hierarchy\Default Work Unit\Energy Sphere		1984184
+

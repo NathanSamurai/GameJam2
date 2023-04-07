@@ -3,11 +3,11 @@
 	<Project Name="GameJam2 Wwise" GUID="{2CB9D262-8E85-4EAF-A4DE-63760CCE666D}" Generator="2022.1.3.8179"/>
 	<CacheRoot>../../../../../../HammerJammers/GameJam2 Wwise/.cache</CacheRoot>
 	<Platforms>
-		<Platform Name="Web" GUID="{7970D7B4-A273-4A3A-8890-45B45051F745}" BasePlatform="Windows" BasePlatformGUID="{6E0CB257-C6C8-4C5C-8366-2740DFC441EB}" Path="../../../../../../HammerJammers/GameJam2 Wwise/GeneratedSoundBanks/Web"/>
-		<Platform Name="Windows" GUID="{A9F7595A-5653-481C-BEEC-447050F5FD09}" BasePlatform="Windows" BasePlatformGUID="{6E0CB257-C6C8-4C5C-8366-2740DFC441EB}" Path="../../../../../../HammerJammers/GameJam2 Wwise/GeneratedSoundBanks/Windows"/>
+		<Platform Name="Web" GUID="{7970D7B4-A273-4A3A-8890-45B45051F745}" BasePlatform="Windows" BasePlatformGUID="{6E0CB257-C6C8-4C5C-8366-2740DFC441EB}" Path="../../../WwiseData/Banks/Web"/>
+		<Platform Name="Windows" GUID="{A9F7595A-5653-481C-BEEC-447050F5FD09}" BasePlatform="Windows" BasePlatformGUID="{6E0CB257-C6C8-4C5C-8366-2740DFC441EB}" Path="../../../WwiseData/Banks/Windows"/>
 	</Platforms>
 	<Languages>
 		<Language Name="English(US)" Id="684519430" GUID="{2249B3B3-7A4D-4387-AEEF-0E5B447A1298}" Default="true" UseAsStandIn="true"/>
 	</Languages>
-	<FileHash>{A3686720-D6C9-4570-3A94-F0EB7A96B866}</FileHash>
+	<FileHash>{BD371076-F65F-0ADF-DB01-13FE583DA0DC}</FileHash>
 </ProjectInfo>

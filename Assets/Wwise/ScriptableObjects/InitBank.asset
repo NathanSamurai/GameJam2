@@ -9,10 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bd713a3e7a96a474a9e829b315d5c085, type: 3}
-  m_Name: 65625F7A-5F04-4861-A42D-98F14A3F91D4
+  m_Script: {fileID: 11500000, guid: 9289c9e765809ec408877f7c7b8d296d, type: 3}
+  m_Name: InitBank
   m_EditorClassIdentifier: 
-  objectName: Main
-  id: 3161908922
-  guid: 65625F7A-5F04-4861-A42D-98F14A3F91D4
-  bank: {fileID: 11400000, guid: 0448d7a475ffee540b54a9b11b82c6ed, type: 2}
+  AddressableBank: {fileID: 11400000, guid: 9f860dbeeb7c47845a9bfd566ad993a3, type: 2}
